@@ -1,0 +1,367 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <b></b> <span><br />Md Zeeshan</span>",
+    "subTitle": "<span>Full Stack Developerr</span> based in <span>India</span>",
+    "ImgLink": "/images/1.hero.png",
+    "phone": "+91 6200617741",
+    "email": "mdzeeshan5875@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "https://github.com/mdzeeshan-2",
+        "icon": "github"
+      },
+      {
+        "link": "",
+        "icon": "instagram"
+      },
+      {
+        "link": "https://www.linkedin.com/in/md-zeeshan-73591b201/",
+        "icon": "linkedin"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/2.png",
+      "name": "Md Zeeshan",
+      "designation": "Full Stack Developer <span>based in</span> India",
+      "resumeCv": "https://drive.google.com/file/d/1CamXcbVmF5Dpo2t0BSM5BnS7OcuqSFmL/view?usp=sharing"
+    },
+    "aboutRight": {
+      "aboutText": "I’m Md Zeeshan, a full-stack developer born in 2000 and based in the India. I specialize in designing and building responsive websites and apps, combining clean code with seamless user experiences. Driven by a passion for innovation, I’m always exploring new technologies to create better, more efficient solutions.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+91 6200617741"
+        },
+        {
+          "icon": "person",
+          "data": "Md Zeeshan"
+        },
+        {
+          "icon": "envelope",
+          "data": "mdzeeshan5875@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "India"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "1+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Md Zeeshan</span>. I am a web designer & developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "10+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": "With 1+ years experience as a professional Full stack developer, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "Magic happens when you do not give up, even though you want to. The universe always falls in love with a stubborn heart”"
+    }
+  },
+  "experienceData": {
+    "text": "Hello there! My name is Md Zeeshan. I am a web designer & developer, and Im very passionate and dedicated to my work.",
+    "resumeCv": "https://drive.google.com/file/d/1CamXcbVmF5Dpo2t0BSM5BnS7OcuqSFmL/view?usp=sharing",
+    "experience": [
+      {
+        "start": "July 2023",
+        "end": "Nov 2023",
+        "title": "Software Developer Engineer Intern",
+        "subtitle": "Full Stack"
+      },
+      {
+        "start": "Feb 2024",
+        "end": "Aug 2024",
+        "title": "Software Developer Engineer Intern",
+        "subtitle": "Full Stack"
+      },
+      {
+        "start": "Nov 2022",
+        "end": "Present",
+        "title": "Tech Lead",
+        "subtitle": "Web Developer"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Web Design",
+      "heading": "I strive for two things in design: simplicity and clarity. Great design is born of those two things.",
+      "triger": "One",
+      "imgLink": "/images/3.png",
+      "text": "Web designing is all about creating websites that are both visually appealing and easy to use. As someone new to the field, I’ve learned that it involves choosing the right colors, fonts, and layouts to make sure a site looks good and functions well. It’s not just about design; it’s also important to focus on user experience, making sure the website is responsive and works smoothly on all devices."
+    },
+    {
+      "title": "UI/UX Design",
+      "heading": "The next big thing is the one that makes the last big thing usable.",
+      "triger": "Two",
+      "imgLink": "/images/4.png",
+      "text": "As a UI/UX specialist with over a year of experience, I focus on creating user-friendly, visually appealing designs that balance aesthetics with functionality. My process involves understanding user needs, wireframing, prototyping, and testing to refine the design. I prioritize responsiveness, accessibility, and collaboration to ensure a seamless user experience across all devices."
+    },
+    {
+      "title": "Full Stack Development",
+      "heading": "A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.”",
+      "triger": "Three",
+      "imgLink": "/images/5.png",
+      "text": " I have completed multiple client projects, showcasing my skills in both front-end and back-end technologies. I create engaging user interfaces using JavaScript, HTML, and CSS, along with frameworks like React and Angular. For the back end, I utilize Node.js, Express, and databases like MongoDB and SQL to build robust applications. "
+    },
+    {
+      "title": "DevOps",
+      "heading": "DevOps is not a goal, but a never-ending process of continual improvement",
+      "triger": "Four",
+      "imgLink": "/images/6.png",
+      "text": "As a DevOps engineer with over a year of experience, I focus on automating CI/CD pipelines, managing cloud platforms like AWS, and utilizing tools like Docker, Kubernetes, and Jenkins to streamline deployments. My expertise lies in optimizing infrastructure and improving collaboration between development and operations teams for faster, more reliable releases."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/8.png",
+      "subTitle": "Full Stack E-Commerce",
+      "title": "Zarafy",
+      "link": "https://zarafy.netlify.app/",
+      "paragraphList": [
+        {
+          "text": "Developed a full-stack E-commerce web app using the Next.js React framework for Front-end, with Redux for state management, MongoDB as database, and Stripe for payment gateway integration. It includes an admin panel for product, sales and inventory management. It includes various key features such as payment gateway integration, server-side and client-side rendering, pagination, sorting, filtering, and searching of products. The application also offers cart management functionality and utilizes charts to visualize sales data, user registration and login functionality using JSON Web Tokens (JWT) stored in browser cookies."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/9.png",
+      "subTitle": "Full Stack Streaming",
+      "title": "Podcast Streaming",
+      "link": "https://podstream.netlify.app/",
+      "paragraphList": [
+        {
+          "text": "Developer a full-stack Podcast application that empowers users to effortlessly search for, stream, and pause their favorite podcasts on demand, revolutionizing the way they engage with audio content. This innovative platform also enables users to unleash their creativity by creating and sharing their own podcasts, all while significantly enhancing team efficiency and streamlining communication across the board."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/10.png",
+      "subTitle": "UI/UX & Web Designing",
+      "title": "OnusEats",
+      "link": "https://onuseats.com/",
+      "paragraphList": [
+        {
+          "text": "Building a food application with the MERN stack—MongoDB, Express.js, React.js, and Node.js—enables the creation of a visually appealing and user-friendly platform. MongoDB offers a flexible database for diverse food data, while Express.js streamlines API development for efficient data handling. React.js facilitates dynamic, responsive UI design, enhancing user engagement with interactive elements. Prioritizing UI/UX ensures intuitive navigation and an aesthetically pleasing experience across devices. Finally, Node.js optimizes deployment for performance and scalability, resulting in a delightful application for food enthusiasts."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/11.png",
+      "subTitle": "FrontEnd",
+      "title": "The NewYork Times",
+      "link": "https://new-york-times-assignment.vercel.app/",
+      "paragraphList": [
+        {
+          "text": "The project involves building a web application that mirrors The New York Times' World section. Key features include a page header and footer, top world news display, geography-based news filtering, various article widgets, and detailed article views.The project handles errors, prioritize SEO, employ TypeScript and React for optimized performance."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/18.png",
+      "date": "10 July, 2024",
+      "delay": "700",
+      "title": "The Weakest Link: Why Supply Chain Attacks Are a Major Security Threat ",
+      "paragraphList": [
+        {
+          "text": "Supply chain attacks, also known as value-chain attacks or third-party attacks, exploit vulnerabilities within the interconnected network of suppliers and service providers to infiltrate organizations across various sectors. Cybercriminals strategically target these dependencies, injecting malicious code or malware into ostensibly trusted tools or services provided by third parties. By compromising these pivotal components, attackers gain surreptitious access to the systems and networks of their ultimate targets, often unbeknownst to the victims themselves. The insidious nature of supply chain attacks lies in their capacity to proliferate undetected, leveraging the trust ingrained within the fabric of interconnected supply chains. Detection proves elusive, as compromised software or hardware may evade conventional security measures, disseminating across organizational boundaries with alarming stealth. In confronting the omnipresent threat of supply chain attacks, organizations must adopt a proactive stance, bolstering resilience across their supply chain ecosystem through heightened vigilance, robust risk assessment protocols, and stringent vetting of third-party vendors to safeguard their digital infrastructure. "
+        },
+        {
+          "text": "Supply chain attacks are insidious tactics that exploit the interconnected nature of organizational relationships, aiming to breach a target through vulnerabilities in third-party systems or applications. These attacks thrive on the trust established between organizations, leveraging the access granted to trusted vendors or service providers. Even if an organization maintains robust cybersecurity defenses, a compromised third party within its supply chain can serve as a conduit for attackers to infiltrate its network. Managed service providers (MSPs) are often prime targets due to their extensive access to client networks, enabling attackers to pivot easily and extend the reach of their breach. Additionally, attackers may compromise the continuous integration and continuous delivery (CI/CD) pipeline in software development, injecting malicious code directly into products distributed to unsuspecting customers. The process typically begins with an upstream attack, where cybercriminals gain access to a third-party dependency through various means such as stolen credentials or exploiting software vulnerabilities. Once access is secured, the attackers proceed with the downstream attack, targeting the ultimate victim, often through routine software updates or other channels. By exploiting weaknesses in the supply chain, attackers can effectively bypass the defenses of their primary targets, causing significant disruption and damage. "
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/19.png",
+      "date": "11 Sept, 2024",
+      "delay": "800",
+      "title": "Strengthening Your Defense Against Cyberattacks: Why VAPT Matters",
+      "paragraphList": [
+        {
+          "text": "Vulnerability Assessment and Penetration Testing (VAPT) is a powerful tool within a comprehensive cybersecurity strategy, enabling organizations to achieve this proactive approach. VAPT goes beyond traditional scanning by simulating real-world attacks on your IT systems and infrastructure. Ethical hackers employ their expertise to find and exploit vulnerabilities before malicious actors can. Through these controlled and authorized assessments, organizations can uncover security weaknesses that automated tools might miss, ultimately strengthening their defenses and protecting their digital assets."
+        },
+        {
+          "text": "Vulnerability Assessment and Penetration Testing are a must regardless of any type of industry your organization belongs to. It is about the verification and assessment of the security posture of your organization. In simple words, you can say that it is a method of checking whether your company is secure from outside attacks or not. In the present times, we hear a lot of hacking issues and cyber-attacks. We all need to secure our systems and networks. Doing vulnerability assessment and penetration testing will let you know the attacks and security loopholes and how to fix them. How about businesses without a committed and efficient security measures team to deal with such vulnerabilities? SMIIT CyberAI has the ideal answer for you for that. We collaborate with the greatest cybersecurity suppliers in the world and provide a wide range of services at unbelievable costs. Our experts will be pleased to assist you if you require more than just security services. Within set timelines. "
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/20.png",
+      "date": "02 April, 2024",
+      "delay": "900",
+      "title": "A Comprehensive Guide to Amazon Web Services (AWS) Services",
+      "paragraphList": [
+        {
+          "text": "AWS, or Amazon Web Services, is a collection of digital infrastructure services that can be used to build and run a wide variety of applications and services. These services can be divided into several broad categories, including compute, storage, databases, and network and content delivery. In this article, we will take a detailed look at each of these categories and the individual services that make them up."
+        },
+        {
+          "text": "EC2 (Elastic Compute Cloud): This is the core compute service in AWS, and allows you to launch virtual machines (VMs) in the cloud. VMs can be launched in a variety of configurations, including different operating systems, CPU and memory sizes, and network configurations."
+        },
+        {
+          "text": "S3 (Simple Storage Service): This is the core storage service in AWS, and allows you to store and retrieve large amounts of data in the cloud. S3 is object-based storage, which means that you can store individual files or “objects” in the service, and access them via a unique URL."
+        },
+        {
+          "text": "RDS (Relational Database Service): This service allows you to run a variety of relational databases in the cloud, including MySQL, PostgreSQL, and Oracle."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/21.png",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "Inside the World of DevOps",
+      "paragraphList": [
+        {
+          "text": "DevOps is a set of practices and tools that aim to automate the process of software delivery and infrastructure management. DevOps is short for “development” and “operations”. It is a term used to describe a new way of working between development and operations teams. In the past, these two teams often worked in silos, with little communication or collaboration. This could lead to problems when it came to releasing new features or updates, as the development team would hand over code to the operations team, who would then have to figure out how to deploy it. This process was often slow and cumbersome, and led to a lot of finger-pointing when things went wrong. The aim of DevOps is to make software deployment successful, and nowadays DevOps uses automation to achieve this goal. Automation helps to make releases more frequent and less risky. DevOps also helps to improve communication and collaboration between development and operations teams, so that they can work together more effectively."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/12.png",
+          "name": "Vaidehi Sejpal",
+          "designation": "Fouder, Essentialy AI",
+          "text": "Thank you for your hard work on the application! Your dedication and skills have made a significant impact. I truly appreciate your efforts!"
+        },
+        {
+          "imgLink": "/images/13.png",
+          "name": "Pallavi Kumari",
+          "designation": "Founder, SMIIT CyberAI",
+          "text": "Your proficiency in Javascript has not only helped us overcome challenges but also set a high standard for coding practices within the team. Your ability to write clean, efficient code is commendable."
+        },
+        {
+          "imgLink": "/images/14.png",
+          "name": "Mihir Basu",
+          "designation": "HR Official",
+          "text": "Your collaborative spirit is a valuable asset to our team. You consistently provide support and share knowledge, which fosters a positive work environment."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/15.png"
+        },
+        {
+          "imgLink": "/images/16.png"
+        },
+        {
+          "imgLink": "/images/17.png"
+        },
+        {
+          "imgLink": "/images/15.png"
+        },
+        {
+          "imgLink": "/images/16.png"
+        },
+        {
+          "imgLink": "/images/17.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat to us",
+        "text": "Our friendly team is there to help.",
+        "emailLink": " mdzeeshan5875.com"
+      },
+      {
+        "icon": "compass",
+        "title": "Visit us",
+        "text": "Delhi, India"
+      },
+      {
+        "icon": "phone",
+        "title": "Call us",
+        "text": "Mon-Fri from 8am to 5pm. +91 6200617741"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? We have got the skills. Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/1.png",
+    "name": "Md Zeeshan"
+  },
+  "socialData": [
+    {
+      "icon": "reddit",
+      "link": "https://www.reddit.com/user/ReflectionOverall885/"
+    },
+    {
+      "icon": "instagram",
+      "link": ""
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/mdzeeshan-2"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/md-zeeshan-73591b201/"
+    }
+  ]
+}
