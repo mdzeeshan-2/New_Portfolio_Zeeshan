@@ -33,7 +33,7 @@
       "resumeCv": "https://drive.google.com/file/d/1CamXcbVmF5Dpo2t0BSM5BnS7OcuqSFmL/view?usp=sharing"
     },
     "aboutRight": {
-      "aboutText": "I’m Md Zeeshan, a full-stack developer born in 2000 and based in the India. I specialize in designing and building responsive websites and apps, combining clean code with seamless user experiences. Driven by a passion for innovation, I’m always exploring new technologies to create better, more efficient solutions.",
+      "aboutText": "I’m Md Zeeshan, a full-stack developer born in 2001 and based in the India. I specialize in designing and building responsive websites and apps, combining clean code with seamless user experiences. Driven by a passion for innovation, I’m always exploring new technologies to create better, more efficient solutions.",
       "contactInfo": [
         {
           "icon": "phone",
@@ -55,12 +55,12 @@
       "archivement": [
         {
           "number": "1+",
-          "meta": "Years <br /> experience...",
+          "meta": "Years <br /> experience",
           "text": "Hello there! My name is <span>Md Zeeshan</span>. I am a web designer & developer, and Im very passionate and dedicated to my work."
         },
         {
           "number": "10+",
-          "meta": "Clients <br /> Worldwide...",
+          "meta": "Clients <br /> Worldwide",
           "text": "With 1+ years experience as a professional Full stack developer, I have acquired the skills to make your project a success."
         }
       ],
@@ -324,7 +324,7 @@
         "icon": "chat-left-dots-fill",
         "title": "Chat to us",
         "text": "Our friendly team is there to help.",
-        "emailLink": " mdzeeshan5875.com"
+        "emailLink": " mdzeeshan5875@gmail.com"
       },
       {
         "icon": "compass",
