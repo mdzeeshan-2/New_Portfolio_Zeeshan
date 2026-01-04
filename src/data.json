@@ -322,8 +322,8 @@
     "contactInfo": [
       {
         "icon": "chat-left-dots-fill",
-        "title": "Chat to us",
-        "text": "Our friendly team is there to help.",
+        "title": "Chat",
+        "text": "Ready to help.",
         "emailLink": " mdzeeshan5875@gmail.com"
       },
       {
@@ -333,13 +333,13 @@
       },
       {
         "icon": "phone",
-        "title": "Call us",
+        "title": "Call ",
         "text": "Mon-Fri from 8am to 5pm. +91 6200617741"
       }
     ],
     "contactForm": {
-      "title": "Got Ideas? We have got the skills. Lets team up.",
-      "text": "Tell us more about yourself and what you are got in mind."
+      "title": "Got Ideas? I have got the skills. Lets team up.",
+      "text": "Tell me more about yourself and what you are got in mind."
     }
   },
   "footerData": {
